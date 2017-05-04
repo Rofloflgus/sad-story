@@ -27,4 +27,8 @@ Fortunately, a wizard reversed time and the pail was remade full of water.
 
 Unforunately, Jill didn't catch the new pail.
 
+Fortunately, Jack did.
+
+Unfortunately, the new water was radioactive from the wizard's magic.
+
 Fortunately, not a drop of water was spilled, and the village was saved.
